@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TMDBApp</string>
+    <string name="api_key">93aea0c77bc168d8bbce3918cefefa45</string>
+    <string name="message_error_500">We are having internal problems. Please excuse the inconvenience.</string>
+    <string name="error">Error</string>
+    <string name="alert">Alert</string>
+    <string name="dialog_connection_error">Sorry, we could not establish the connection at this moment. Please try again later, and contact us if the problem persists.</string>
+    <string name="dialog_loading">Loading…</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="ok">OK</string>
+    <string name="search">Search</string>
+</resources>
